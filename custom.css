@@ -1,0 +1,126 @@
+body {
+  background: #f5f5f5;
+}
+
+img {
+  max-width: 100%;
+}
+
+.wrap {
+  max-width: 1180px;
+  margin: auto;
+}
+
+#mainNav {
+  background: #65d1f7;
+  text-align: center;
+  max-height: 85px;
+}
+
+#mainNav a.navbar-brand {
+  width: 211px;
+  height: 116px;
+  float: none;
+  display: inline-block;
+  text-indent: -5000em;
+  margin: auto;
+  background: transparent url(img/logo.png) center center no-repeat;
+  background-size: 100%;
+  position: absolute;
+  left: 50%;
+  top: 0;
+  margin-left: -105px;
+}
+
+#mainNav .menu-1 {
+  float: left;
+  margin-left: 0 !important;
+}
+
+header {
+  margin-top: 150px;
+}
+
+#mainNav.navbar-shrink {
+  background: #00b2e1;
+}
+
+#mainNav.navbar-shrink a.navbar-brand {
+  height: 86px;
+  width: 180px;
+  margin-left: -90px;
+}
+
+#services .col-md-6:nth-child(3) p,
+#services .col-md-6:nth-child(4) p {
+  padding-top: 35px;
+}
+
+#services .fa-stack {
+  float: left;
+  margin-right: 40px;
+}
+
+#services p {
+  text-align: left !important;
+}
+
+h3.destaque {
+  float: left;
+  width: 100%;
+  text-align: center;
+  margin: 100px 0;
+}
+
+h3.destaque strong {
+  color: #00b2e1;
+}
+
+.diferenciais {
+  float: left;
+  width: 100%;
+  padding: 50px;
+  text-align: left;
+  background: #00b2e1;
+  color: #fff;
+}
+
+.diferenciais h4 {
+  margin-bottom: 40px;
+}
+
+.diferenciais ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.diferenciais ul li {
+  margin: 15px 0;
+  font-size: 16px;
+}
+
+.diferenciais ul li i {
+  color: #fed136;
+  font-size: 21px;
+  margin-right: 10px;
+}
+
+section#contact {
+  background: #22b0ee !important;
+  padding: 70px;
+}
+
+.estrutura img {
+  float: left;
+  width: 46%;
+  margin: 2%;
+}
+
+#contact p {
+  color: #fff !important;
+}
+
+#contact form {
+  margin-top: 40px;
+}
